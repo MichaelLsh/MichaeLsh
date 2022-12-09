@@ -1,6 +1,6 @@
 # Hey there :wave: Welcome! :grin:
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=ecf05e479pg19fpgvjnf105e9b34hexgswzsags41c5zw9pg&rid=giphy.gif&ct=s" width="250"/>
+  <img src="https://media1.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=ecf05e479pg19fpgvjnf105e9b34hexgswzsags41c5zw9pg&rid=giphy.gif&ct=s" width="266"/>
 </div>
 
 ### :technologist:
