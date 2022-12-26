@@ -1,4 +1,4 @@
-# Hey there :wave: Welcome! :grin:
+# :wave: Hey there and  Welcome! :grin:
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=ecf05e479pg19fpgvjnf105e9b34hexgswzsags41c5zw9pg&rid=giphy.gif&ct=s" width="266"/>
 </div>
@@ -12,7 +12,7 @@
 - Will be replying back **ASAP** ~~!
 
 
-## 🔥 My Stats :
+## 🔥 My Stats 🔥:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MichaelLsh&theme=dark&background=000000)](https://git.io/streak-stats)
 
