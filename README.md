@@ -1,6 +1,6 @@
 # :wave: Hey there and  Welcome! :grin:
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=ecf05e479pg19fpgvjnf105e9b34hexgswzsags41c5zw9pg&rid=giphy.gif&ct=s" width="266"/>
+  <img src="https://media1.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=ecf05e479pg19fpgvjnf105e9b34hexgswzsags41c5zw9pg&rid=giphy.gif&ct=s" width="300"/>
 </div>
 
 ## :technologist:
@@ -19,3 +19,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelLsh&layout=compact)](https://github.com/MichaelLsh/github-readme-stats)
+
+![Shihao's LeetCode Stats](https://readme-stats-curly210102.vercel.app/api/leetcode?username=lsh20011018)
