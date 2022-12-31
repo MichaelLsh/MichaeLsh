@@ -20,4 +20,4 @@
 
 ![Shihao's LeetCode Stats](https://readme-stats-curly210102.vercel.app/api/leetcode?username=lsh20011018)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelLsh&layout=compact)](https://github.com/MichaelLsh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelLsh)](https://github.com/MichaelLsh/github-readme-stats)
