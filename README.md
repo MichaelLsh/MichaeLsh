@@ -20,5 +20,5 @@
 ![Shihao's LeetCode Stats](https://readme-stats-curly210102.vercel.app/api/leetcode?username=lsh20011018)
 
 
-[![Top Langs](https://github-readme-stats-orpin-zeta-35.vercel.app/api/top-langs/?username=MichaelLsh&langs_count=8&layout=compact)](https://github.com/MichaelLsh/github-readme-stats)
+
 
