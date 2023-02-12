@@ -23,6 +23,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MichaelLsh&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MichaelLsh&theme=dark)](https://github.com/MichaelLsh/github-readme-stats)
+
+
 ![Shihao's LeetCode Stats](https://readme-stats-curly210102.vercel.app/api/leetcode?username=lsh20011018)
 
 
