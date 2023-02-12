@@ -5,14 +5,14 @@
 
 ## :technologist: 📫 Please Reach me out!
 
-- 🔭 Two-Year Hands-on experiences as a Software Development Engineer role
+- 🔭 **Two-Year hands-on experiences as a Software Development Engineer role**
 - Currently :round_pushpin: **Edmonton, Alberta, Canada**
 - Please email me :e-mail: via **20011018liushihao@gmail.com**
-- Please call me :calling: or message me :envelope: at **825-986-8286**
+- Please call me :calling: or message me :envelope: at **(+1)825-986-8286**
 - Please connect me :handshake: or view :eyes: on [**my LinkedIn profile**](https://www.linkedin.com/in/michael-liu-lsh20011018/)
 - Please add my Discord **MichaeLSH#5576** to **dm** me
 - I'm always trying my best to reply back **ASAP**
-- ⚡ Fun fact: I used to be a pro lightweight rower and now become a pro computer scientist 
+- Fun fact ⚡: I used to be a pro lightweight rower and now become a pro computer scientist 
 
 ## My Top Techonologies 
 
