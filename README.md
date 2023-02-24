@@ -5,7 +5,7 @@
 
 ## :technologist: 📫 Please Reach me out!
 
-- 🔭 **Two-Year hands-on experiences as a Software Development Engineer role**
+- 🔭 **Two-Year hands-on experiences as a Software Development Engineer Intern Role**
 - Currently :round_pushpin: **Edmonton, Alberta, Canada**
 - Please email me :e-mail: via **20011018liushihao@gmail.com**
 - Please call me :calling: or message me :envelope: at **(+1)825-986-8286**
