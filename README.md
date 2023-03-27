@@ -1,4 +1,4 @@
-# :grin: Hi, I'm Shihao <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+# :grin: Hi, I'm Shihao Liu <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=ecf05e479pg19fpgvjnf105e9b34hexgswzsags41c5zw9pg&rid=giphy.gif&ct=s" width="300"/>
 </div>
