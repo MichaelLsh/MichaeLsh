@@ -5,7 +5,7 @@
 
 ## :technologist: 📫 Please Reach Me Out Anytime!
 
-- 🔭 **Three-to-Four-Year hands-on experience as a Software Development Engineer Intern Role**
+- 🔭 **Three-year-plus hands-on industry experience as a Software Developer Role**
 - Currently :round_pushpin: **Edmonton, Alberta, Canada**, but always willing to relocate 👀
 - Please connect me :handshake: or view :eyes: on [**my LinkedIn profile**](https://www.linkedin.com/in/michael-liu-lsh20011018/)
 - Please add my Discord **MichaeLSH#5576** to **dm** me
