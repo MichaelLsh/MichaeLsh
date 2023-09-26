@@ -21,8 +21,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MichaelLsh&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-![Shihao's LeetCode Stats](https://readme-stats-curly210102.vercel.app/api/leetcode?username=lsh20011018)
-
 
 
 
