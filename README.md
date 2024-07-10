@@ -5,12 +5,12 @@
 
 ## :technologist: 📫 Please Reach Me Out Anytime!
 
-- 🔭 **Three-year-plus hands-on industry experience as a Software Developer Role**
-- Currently :round_pushpin: **Edmonton, Alberta, Canada**, but always willing to relocate 👀
+- 🔭 **Three-year-plus hands-on industry experience as a Software Developer**
+- Currently :round_pushpin: **Canada**, but always willing to relocate 👀
 - Please connect me :handshake: or view :eyes: on [**my LinkedIn profile**](https://www.linkedin.com/in/shihao-michael-liu/)
 - Please add my Discord **MichaeLSH#5576** to **dm** me
 - I'm always trying my best to reply back **ASAP**
-- Fun fact ⚡: I used to be a pro lightweight rower and have now become a pro software developer and a computer scientist! 
+- Fun fact ⚡: I used to be a pro lightweight rower and have now become a pro software developer! 
 
 ## My Top Technologies 
 
